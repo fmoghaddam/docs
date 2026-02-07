@@ -119,5 +119,19 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   },
-  "openapi": "/api-reference/openapi.json"
+  "openapi": "/api-reference/openapi.json",
+  "tabs": [
+    {
+      "tab": "API Reference",
+      "groups": [
+        {
+          "group": "Endpoints",
+          "openapi": {
+            "source": "/api-reference/openapi.json",
+            "directory": "api-reference"
+          }
+        }
+      ]
+    }
+  ]
 }
