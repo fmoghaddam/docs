@@ -5,7 +5,7 @@
     "version": "1.0.0"
   },
   "paths": {
-    "/health": {
+    "/health2": {
       "get": {
         "summary": "Health check",
         "responses": {
