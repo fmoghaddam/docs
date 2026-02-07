@@ -7,7 +7,7 @@
   "paths": {
     "/health2": {
       "get": {
-        "summary": "Health check",
+        "summary": "This is Health check",
         "responses": {
           "200": {
             "description": "OK"
